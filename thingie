@@ -1,2 +1,0 @@
-# install.package('remotes')
-remotes::install_github('coolbutuseless/wordle')
